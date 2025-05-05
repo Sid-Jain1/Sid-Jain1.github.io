@@ -3,7 +3,7 @@
     --secondaryText: #00ffff;        
     --primary: rgba(0, 128, 255, 0.4); 
     --secondary: rgba(0, 100, 200, 0.6);
-    --buttonHover: rgba(255, 0, 0, 0.473); 
+    --buttonHover: rgba(255, 0, 0, 0.473); /*changed hover to red*/
     --smallButtonHover: rgba(247, 25, 9, 0.1); 
   }
   
