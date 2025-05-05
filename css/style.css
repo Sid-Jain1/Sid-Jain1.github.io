@@ -1,10 +1,10 @@
 :root {
-    --primaryText: #ffffff;           /* Keep white for clean text */
-    --secondaryText: #00ffff;         /* Cyan — bright and readable over dark bg */
-    --primary: rgba(0, 128, 255, 0.4); /* Soft blue for buttons */
-    --secondary: rgba(0, 100, 200, 0.6); /* Deeper blue for highlights */
-    --buttonHover: rgba(255, 0, 0, 0.473); /* Lighter hover effect */
-    --smallButtonHover: rgba(247, 25, 9, 0.1); /* Subtle hover for links */
+    --primaryText: #ffffff;       
+    --secondaryText: #00ffff;        
+    --primary: rgba(0, 128, 255, 0.4); 
+    --secondary: rgba(0, 100, 200, 0.6);
+    --buttonHover: rgba(255, 0, 0, 0.473); 
+    --smallButtonHover: rgba(247, 25, 9, 0.1); 
   }
   
 
